@@ -119,7 +119,7 @@ The Python application provides a menu-based train enquiry system.
 
 ## 📸 Dashboard Preview
 
-**Dashboard screenshot will be added here.**
+![Train Schedule Management Dashboard](train-schedule-dashboard.png)
 
 ---
 
